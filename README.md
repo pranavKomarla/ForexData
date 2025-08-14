@@ -1,4 +1,4 @@
-# lazyTrader
+# ForexData
 
 
 Develop a live trading bot with real-time market execution.
